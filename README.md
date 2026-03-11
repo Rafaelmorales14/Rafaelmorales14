@@ -4,7 +4,11 @@ Sou estudante de Engenharia de Software, desenvolvedor e apaixonado por tecnolog
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Python" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Python" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">  
+  <img align="center" alt="Python" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">  
+  <img align="center" alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">  
+  
 </div>
 
 ##
